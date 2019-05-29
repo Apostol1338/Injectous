@@ -6,7 +6,7 @@ set(INCLUDE
 )
 
 set(SOURCE
-dev/main.c
+dev/main.cc
 )
 
 find_package(JPEG REQUIRED)
